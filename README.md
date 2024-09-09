@@ -7,4 +7,4 @@ The executive summary report provides an overview of key metrics.
 - Year-to-Date return rate
 - Sales trends grouped by continent and product category
 - Key Performance Indicators
-<img src="https://github.com/Helena-ys/Adventure-Works/blob/main/Executive%20Summary%20Report.JPG" width=75% height=75%>
+<img src="https://github.com/Helena-ys/Adventure-Works/blob/main/images/Executive_Summary_Report.jpg" width=75% height=75%>
