@@ -1,4 +1,4 @@
-# Adventure Works Dashboard
+# Adventure Works
 Developing dashboard to improve the decision making process for the Retail Performance Management team of Adventure Works.
 
 ## Executive Summary Report
